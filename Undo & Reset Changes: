@@ -1,0 +1,3 @@
+git reset <file> --> unstages  file but keeps changes in the working directory
+git revert <commit> --> creates  new commit that undoes changes from a previous commit
+git checkout -- <file> –->  discards changes in the working directory
