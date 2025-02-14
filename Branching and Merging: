@@ -1,0 +1,5 @@
+git branch --> lists all branches in the repo
+git branch <branch_name> --> creates new branch 
+git checkout <branch_name> --> switches to an existing branch 
+git switch <branch_name> -->  alternative to checkout for switching branches
+git merge <branch_name> -->  Merges the specified branch into the current branch
