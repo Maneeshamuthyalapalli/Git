@@ -1,0 +1,8 @@
+git init ---> to start a repo 
+git clone <repo_url> ---> copies from existing repo 
+git add . ---> stages all changes in working directory 
+git add <file> ---> specific file for commit
+git status ---> shows the status of changes as untracked, modified
+git commit -m "message" ---> commits changes with a descriptive message 
+git log ---> displays commit history
+
