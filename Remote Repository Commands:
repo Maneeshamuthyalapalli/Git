@@ -1,0 +1,4 @@
+git remote -v --> lists all remote repos
+git remote add <name> <url> – adds a remote repo
+git push <remote> <branch> – pushes committed changes to a remote repo
+git pull <remote> <branch> – fetches and merges changes from the remote branch
